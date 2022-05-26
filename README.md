@@ -9,9 +9,9 @@ This API is mainly used to speed up the aquisition of various Definitions used <
 Aquisition of these Definitions is also possible using Bungie's API<br> but it's much slower that this
 local solution.
 
-Manifest file is an SQL database that contains Definitions about various things<br> in Bungie's video game: Destiny 2.
+Manifest file is an SQL database that contains data in JSON format about various things<br> in Bungie's video game: Destiny 2.
 Definitions are used to get data in JSON format<br> based on it's ID (things like in-game items).
 
 This API only has one API endpoint and that is all it basically needs.<br> This endpoint is located on
-**/Platform/Destiny2/Manifest/{entityType}/{hashIdentifier}**.<br> "entityType" is a type of Definition
-(eg. DestinyInventoryItemDefinition) that the item is<br> located in and "hashIdentifier" is the item's ID.
+**/Platform/Destiny2/Manifest/{entityType}/{hashIdentifier}**.<br> _"entityType"_ is a type of Definition
+(eg. DestinyInventoryItemDefinition) that the item is<br> located in and _"hashIdentifier"_ is the item's ID.
