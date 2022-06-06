@@ -17,7 +17,6 @@
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.7",
     "sqlite3": "^5.0.8",
-    "sqlite3-promisify": "^1.0.3",
-    "unzipper": "^0.10.11"
+    "sqlite3-promisify": "^1.0.3"
   }
 }
