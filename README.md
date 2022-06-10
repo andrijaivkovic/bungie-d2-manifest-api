@@ -1,4 +1,4 @@
-# Bungie's Destiny 2 Manifest File Server
+# Bungie's Destiny 2 Manifest File API
 
 This project is a quasi-Restful API that is used in development of it's sister project<br>
 also developed by me: https://github.com/andrijaivkovic/bungie-d2-api-app
