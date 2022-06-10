@@ -3,7 +3,7 @@
 This project is a quasi-Restful API that is used in development of it's sister project<br>
 also developed by me: https://github.com/andrijaivkovic/bungie-d2-api-app
 
-This API is developet using **NodeJS** and **Express** framework.
+This API is developed using **NodeJS** and **Express** framework.
 
 This API is mainly used to speed up the aquisition of various Definitions used <br> in Bungie's API.
 Aquisition of these Definitions is also possible using Bungie's API<br> but it's much slower that this
